@@ -1,5 +1,3 @@
-package module02.homework.autocheck;
-
 public class NameEncoderDecoder {
     public String encode(String name) {
         String codeName = name
