@@ -25,6 +25,6 @@ public class NameEncoderDecoder {
 
         System.out.println(nameEncoderDecoder.encode("Crab"));
         System.out.println(nameEncoderDecoder.decode("NOTFORYOUCr5bYESNOTFORYOU"));
-        System.out.println(nameEncoderDecoder.decode("NOTFORYOUNOTFORYOUYESNOTFORYOU"));
+        
     }
 }
